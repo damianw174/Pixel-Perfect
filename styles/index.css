@@ -13,6 +13,12 @@ body{
     padding: 0;
     width: 100vw;
     height: 100vh;
+
+    background-image: url(/back.png);
+    background-position: center;
+    background-size: cover;
+
+    font-family: 'Roboto', sans-serif;
 }
 
 .leftSec{
@@ -34,7 +40,7 @@ body{
 
 .mainContent >h1{
   color: var(--articleHeaderColor);
-  font-weight: normal;
+  
   font-size: 3vw;
 }
 
@@ -97,7 +103,7 @@ button{
 .icon{
   width: 3vw;
   height: 3vw;
-  background-color: var(--contentTextColor);
+  
 }
 
 @media (max-width:480px){
