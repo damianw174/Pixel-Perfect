@@ -27,10 +27,38 @@ body{
  
 }
 
-.rightRight{
+.rightSec{
   position: relative;
   width: 50%;
   height: 100%;
   float: left;
   background-color: #6775c4;
+}
+
+.leftArticles{
+  position: relative;
+  float: left;
+  width: 50%;
+  height: 100%;
+}
+
+.rightArticles{
+  position: relative;
+  float: left;
+  width: 50%;
+  height: 100%;
+  
+}
+
+.article{
+  box-sizing: border-box;
+  position:relative;
+  background-color: beige;
+  width: 80%;
+  height: auto;
+  
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 2vw;
+  margin-top: 3vh;
 }
