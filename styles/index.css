@@ -104,6 +104,25 @@ button{
 .icon{
   width: 3vw;
   height: 3vw;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.green{
+  background-image: url("/green.png");
+}
+
+.blue{
+  background-image: url("/blue.png");
+}
+
+.purple{
+  background-image: url("/porple.png");
+}
+
+.orange{
+  background-image: url("/orange.png");
 }
 
 /*for mobile */
