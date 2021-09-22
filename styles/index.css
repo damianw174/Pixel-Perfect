@@ -13,7 +13,7 @@ body{
     width: 100vw;
     height: 100vh;
 
-    background-image: url(/images/back.png);
+    background-image: url(./images/back.png);
     background-position: center;
     background-size: cover;
 
@@ -109,19 +109,19 @@ button{
 }
 
 .green{
-  background-image: url("/images/green.png");
+  background-image: url("./images/green.png");
 }
 
 .blue{
-  background-image: url("/images/blue.png");
+  background-image: url("./images/blue.png");
 }
 
 .purple{
-  background-image: url("/images/porple.png");
+  background-image: url("./images/porple.png");
 }
 
 .orange{
-  background-image: url("/images/orange.png");
+  background-image: url("./images/orange.png");
 }
 
 /*for mobile */
