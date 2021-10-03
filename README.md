@@ -8,5 +8,6 @@ To oni są autorem pliku makieta.png
 
 ## Moim zadaniem było odwzorowanie tego wyglądu 1 do 1 w określonym czasie,
 bez żadnych wskazówek donośnie  marginesów, czcionek wielkości itd.
+Od siebie dodałem podstawową responsywsność (media queries).
 
-plik makieta.png jest to wzór, od którego powstał projekt.
+!plik makieta.png jest to wzór, od którego powstał projekt.!
