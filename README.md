@@ -1,4 +1,4 @@
- Projekt cwiczacy umiejętność Pixel Perfect
+# Projekt cwiczacy umiejętność Pixel Perfect
 
 Projekt powstał jako zadanie rekrutacyjne dla Shuffle.
 wykonany w czystym HTML + CSS
